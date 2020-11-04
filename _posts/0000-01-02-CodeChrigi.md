@@ -2,7 +2,7 @@
 4.	
 5.	layout: slide
 6.	
-7.	title: "This is our second slide!"
+7.	title: "This is the second slide!"
 8.	
 9.	---
 10.	
